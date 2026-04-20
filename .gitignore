@@ -1,0 +1,25 @@
+# системные файлы ОС Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# файлы среды разработки PyCharm (JetBrains)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# временные файлы и логи
+*.log
+*.tmp
+temp/
+tmp/
+
+# файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.virtualenv/
